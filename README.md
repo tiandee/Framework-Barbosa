@@ -1,6 +1,6 @@
 # 写在前面
 Git is a distributed version control system.
-Git is free software.
+Git is a free software.
 
 ## OSChina Android [客户端](http://www.oschina.net/app/)
 Git is free software.
